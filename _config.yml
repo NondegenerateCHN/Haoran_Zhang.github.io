@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Haoran Zhang"
 title_separator          : "-"
 name                     : &name "Haoran Zhang"
-description              : &description "personal description"
+description              : &description "PhD Candicate at King Abdullah University of Science and Technology"
 url                      : https://NondegenerateCHN.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NondegenerateCHN/NondegenerateCHN.github.io"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Haoran Zhang"
-  avatar           : "profile.png"
+  avatar           : "Haoran_Zhang_Photo.jpg"
   bio              : "PhD candicate at King Abdullah University of Science and Technology"
-  location         : "Location"
+  location         : "Thuwal, Jeddah, Saudi Arabia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=pGTP1uEAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "NondegenerateCHN"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5944-8641"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "FlyingDogHaoran"
   vine             :
   weibo            :
   xing             :
