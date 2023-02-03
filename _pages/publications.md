@@ -13,7 +13,7 @@ author_profile: true
 
 [3] **H. Zhang**, Y. Yang, J. Zhou, and A. Shamim, "Wearable Radar System Design on Semi-Flexible PCB for Visually Impaired People, " in Frontiers in Communications and Networks, Dec 2021.”
 
-[4] W. Li, **H. Zhang**, S. Kagita, and A. Shamim, "All Screen-Printed, Polymer-Nanowire based Foldable Electronics for mm-Wave Applications," in Advanced Materials Technologies, July 2021. (Cover Article)
+[4] W. Li, **H. Zhang**, S. Kagita, and A. Shamim, "All Screen-Printed, Polymer-Nanowire based Foldable Electronics for mm-Wave Applications," in Advanced Materials Technologies, July 2021. (**Cover Article**)
 
 [5] **H. Zhang** and A. Shamim, "Gain Enhancement of Millimeter-Wave on-Chip Antenna through an Additively Manufactured Functional Package," in IEEE Transactions on Antennas and Propagation, Feb 2020
 
