@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching Assistant
 
-[1] **ECE-221 Electromagnetic Theory**, Graduate Course-2022 Fall Semster, Electrical and Computer Engineering, KAUST
+[1] **ECE-22122 Electromagnetic Theory**, Graduate Course-2022 Fall Semster, Electrical and Computer Engineering, KAUST
 
 [2] **ECE-323 Microwave Measurement Laboratory**, Graduate Course-2021 Summer Semster, Electrical and Computer Engineering, KAUST
 
