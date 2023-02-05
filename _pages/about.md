@@ -25,5 +25,5 @@ King Abdullah University of Science and Technology (Thuwal, Saudi Arabia)
 
 Experience
 ======
-2016.08 - 2017.01: Academic Internship King Abdullah University of Science and Technology
+2016.08 - 2017.01: Academic Internship-King Abdullah University of Science and Technology
 
