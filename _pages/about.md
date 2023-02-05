@@ -16,15 +16,12 @@ I am always happy to talk about research, outdoor activities, photography, or sc
 Eduation
 ======
 2013 - 2017 Bacelor Degree-Integrated Circuit and Intergrated System Design  
-
 University of Electronic Science and Technology of China (Chengdu, China)
 
 2017 - 2019 Master Degree-Millimeter Wave Antenna/Array Design  
-
 King Abdullah University of Science and Technology (Thuwal, Saudi Arabia)
 
 2019 - Now PhD Degree-Millimeter Wave Antenna/Array Design  
-
 King Abdullah University of Science and Technology (Thuwal, Saudi Arabia)  
 
 Experience
