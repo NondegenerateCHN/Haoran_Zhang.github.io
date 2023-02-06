@@ -1,7 +1,7 @@
 ---
 title: "Electrically Small Antenna Design with Embedded Electronics for RPW Detection"
 collection: projects
-permalink: /projects/project1-RPW
+permalink: /projects/project2-RPW-Detection
 venue: "IMPACT Lab, King Abdullah University of Science and Technology"
 location: "Thuwal, Jeddah, Saudi Arabia"
 ---
