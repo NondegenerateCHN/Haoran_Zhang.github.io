@@ -6,9 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Download CV here](https://NondegenerateCHN.github.io/files/Haoran_Resume_2023.pdf)
 {% include base_path %}
 
+<!--
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,3 +58,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+>
