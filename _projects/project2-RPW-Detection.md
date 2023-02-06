@@ -1,6 +1,6 @@
 ---
 title: "Electrically Small Antenna Design with Embedded Electronics for RPW Detection"
-collection: Projects
+collection: projects
 permalink: /projects/project2-RPW-Detection
 venue: "IMPACT Lab, King Abdullah University of Science and Technology"
 location: "Thuwal, Jeddah, Saudi Arabia"
@@ -9,7 +9,7 @@ location: "Thuwal, Jeddah, Saudi Arabia"
 ![images](http://NondegenerateCHN.github.io/images/project2-RPW-Detection1.png)
 <div style="text-align: center"> BLE Tracking System & package </div>
 
-![images](http://NondegenerateCHN.github.io/images/project2-RPW-Detection1.png)
+![images](http://NondegenerateCHN.github.io/images/project2-RPW-Detection2.png)
 <div style="text-align: center"> Meandering Line Antenna </div>
 
 <div style="text-align: justify"> 
