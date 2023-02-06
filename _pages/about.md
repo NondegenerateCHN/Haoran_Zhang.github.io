@@ -12,26 +12,28 @@ Thanks for stopping by. My name is Haoran Zhang. I am currently a PhD candicate 
 </div>
 <div style="text-align: justify">
 I am always happy to talk about research, outdoor activities, photography, or science communication. Whether looking for a research collaborator or outdoor activities partner, do not hesitate to email me and/or follow me on social media.
-</div>  
+</div>
 
 
 Eduation
 ======
-2013 - 2017 Bacelor Degree：
+**2013 - 2017 Bacelor Degree：**  
 Integrated Circuit and Intergrated System Design  
 University of Electronic Science and Technology of China (Chengdu, China)
 
-2017 - 2019 Master Degree：
+**2017 - 2019 Master Degree：**  
 Millimeter Wave Antenna/Array Design  
 King Abdullah University of Science and Technology (Thuwal, Saudi Arabia)
 
-2019 - Now PhD Degree：
+**2019 - Now PhD Degree:**  
 Millimeter Wave Antenna/Array Design  
 King Abdullah University of Science and Technology (Thuwal, Saudi Arabia)  
 
 Experience
 ======
-2016.08 - 2017.01: Academic Internship - King Abdullah University of Science and Technology (Thuwal, Saudi Arabia)
+**2016.08 - 2017.01:** Academic Internship  
+King Abdullah University of Science and Technology (Thuwal, Saudi Arabia)  
 
-2019.09 - 2019.10： Equipment Training - Orbit/FR - Microwave Vision Group (Warminster, United States)
+**2019.09 - 2019.10:** Equipment Training  
+Orbit/FR - Microwave Vision Group (Warminster, United States)
 
