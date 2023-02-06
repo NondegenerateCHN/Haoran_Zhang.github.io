@@ -11,7 +11,7 @@ author_profile: true
 
 [2] **H. Zhang** and A. Shamim, “Figure of Merit for the Objective Assessment of mmWave 5G Phased Arrays,” IEEE Antennas and Propagation Magazine. (Submitted, under review process)
 
-[3] **H. Zhang**, Y. Yang, J. Zhou, and A. Shamim, "Wearable Radar System Design on Semi-Flexible PCB for Visually Impaired People, " in Frontiers in Communications and Networks, Dec 2021.”
+[3] **H. Zhang**, Y. Yang, J. Zhou, and A. Shamim, "[Wearable Radar System Design on Semi-Flexible PCB for Visually Impaired People](https://www.frontiersin.org/articles/10.3389/frcmn.2021.768794/full), " in Frontiers in Communications and Networks, Dec 2021.”
 
 [4] W. Li, **H. Zhang**, S. Kagita, and A. Shamim, "All Screen-Printed, Polymer-Nanowire based Foldable Electronics for mm-Wave Applications," in Advanced Materials Technologies, July 2021. (**Cover Article**)
 
