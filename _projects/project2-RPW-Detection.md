@@ -6,7 +6,7 @@ venue: "IMPACT Lab, King Abdullah University of Science and Technology"
 location: "Thuwal, Jeddah, Saudi Arabia"
 ---
 
-![images](/images/project2-RPW-Detection1.PNG)
+![images](/images/project2-RPW-Detection1.PNG width=60%)
 <div style="text-align: center"> BLE Tracking System & package </div>
 
 ![images](/images/project2-RPW-Detection2.PNG)
