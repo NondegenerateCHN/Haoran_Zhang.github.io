@@ -9,7 +9,7 @@ location: "Thuwal, Jeddah, Saudi Arabia"
 ![images](project2-RPW-Detection1.PNG)
 <div style="text-align: center"> BLE Tracking System & package </div>
 
-![images](project2-RPW-Detection2.PNG)
+![images](/images/project2-RPW-Detection2.PNG)
 <div style="text-align: center"> Meandering Line Antenna </div>
 
 <div style="text-align: justify"> 
