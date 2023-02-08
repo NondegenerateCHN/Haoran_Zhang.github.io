@@ -1,16 +1,8 @@
 ---
 title: "Electrically Small Antenna Design with Embedded Electronics for RPW Detection"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/project2-RPW-Detection1.png'>"
 collection: projects
-permalink: /projects/project2-RPW-Detection
-venue: "IMPACT Lab, King Abdullah University of Science and Technology"
-location: "Thuwal, Jeddah, Saudi Arabia"
 ---
-
-![images](http://NondegenerateCHN.github.io/images/project2-RPW-Detection1.png)
-<div style="text-align: center"> BLE Tracking System & package </div>
-
-![images](http://NondegenerateCHN.github.io/images/project2-RPW-Detection2.png)
-<div style="text-align: center"> Meandering Line Antenna </div>
 
 <div style="text-align: justify"> 
 RPWs represent one of the most debilitating pests for palm trees all over the world, due to their destructive behavior and rapid reproduction. Hence, detailed information on the
