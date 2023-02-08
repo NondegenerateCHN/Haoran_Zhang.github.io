@@ -6,10 +6,10 @@ venue: "IMPACT Lab, King Abdullah University of Science and Technology"
 location: "Thuwal, Jeddah, Saudi Arabia"
 ---
 
-![images](http://NondegenerateCHN.github.io/images/project2-RPW-Detection1.png)
+![images](http://NondegenerateCHN.github.io/images/project2-RPW-Detection1.PNG)
 <div style="text-align: center"> BLE Tracking System & package </div>
 
-![images](http://NondegenerateCHN.github.io/images/project2-RPW-Detection2.png)
+![images](http://NondegenerateCHN.github.io/images/project2-RPW-Detection2.PNG)
 <div style="text-align: center"> Meandering Line Antenna </div>
 
 <div style="text-align: justify"> 

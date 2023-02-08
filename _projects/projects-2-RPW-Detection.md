@@ -1,6 +1,6 @@
 ---
 title: "Electrically Small Antenna Design with Embedded Electronics for RPW Detection"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/project2-RPW-Detection1.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/project2-RPW-Detection1.PNG'>"
 collection: projects
 ---
 
